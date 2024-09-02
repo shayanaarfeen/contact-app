@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 24.1.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" baseProfile="basic" id="&#x421;&#x43B;&#x43E;&#x439;_1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 48 48"
+	 xml:space="preserve">
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-207.2735" y1="79.108" x2="-188.6587" y2="97.7228" gradientTransform="matrix(1 0 0 1 222.127 -52.643)">
+	<stop  offset="0" style="stop-color:#55ADFD"/>
+	<stop  offset="1" style="stop-color:#438FFD"/>
+</linearGradient>
+<path marker-end="none" marker-start="none" style="fill:url(#SVGID_1_);" d="M6.999,41.499c0-0.635,0-4.156,0-5.5
+	c0-6.624,5.376-12,12-12c0.521,0,1.212,0,2.009,0c0.819,0,2.013,2,2.991,2c1.063,0,1.917-2,3.003-2c2.521,0,4.876,0,5.997,0
+	c4.416,0,8,3.584,8,8c0,0.691,0,3.311,0,4c0,4.416-3.584,8-8,8c-0.793,0-3.107,0-5.992,0c-1.628,0-3.187-3-5.008-3
+	c-2.181,0-4.629,3-6.551,3c-3.192,0-5.623,0-5.949,0C8.119,43.999,6.999,42.879,6.999,41.499z"/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="-203.9011" y1="75.6633" x2="-187.985" y2="91.5794" gradientTransform="matrix(1 0 0 1 218.61 -49.343)">
+	<stop  offset="0" style="stop-color:#427FDB"/>
+	<stop  offset="1" style="stop-color:#0C52BB"/>
+</linearGradient>
+<path marker-end="none" marker-start="none" style="fill:url(#SVGID_2_);" d="M12.999,41.499v-9.5c0-4.416,3.584-8,8-8
+	c1.06,0,4.939,0,6,0c4.416,0,8,3.584,8,8c0,0.691,0,3.311,0,4c0,4.416-3.584,8-8,8h-11.5C14.119,43.999,12.999,42.879,12.999,41.499
+	z"/>
+<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="-202.5894" y1="70.2777" x2="-191.884" y2="80.983" gradientTransform="matrix(1 0 0 1 220.932 -63.935)">
+	<stop  offset="0" style="stop-color:#427FDB"/>
+	<stop  offset="1" style="stop-color:#0C52BB"/>
+</linearGradient>
+<path marker-end="none" marker-start="none" style="fill:url(#SVGID_3_);" d="M23.999,3.998c4.416,0,8.001,3.585,8.001,8.001
+	c0,4.416-3.585,8.001-8.001,8.001s-8.001-3.585-8.001-8.001C15.998,7.583,19.583,3.998,23.999,3.998z"/>
+</svg>
