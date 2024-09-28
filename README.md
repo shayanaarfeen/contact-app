@@ -1,8 +1,26 @@
-# React + Vite
+# Contact App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple and responsive Contact App built using React.js. The app allows users to manage their contacts efficiently with Firebase, providing a seamless user experience for adding, updating, and deleting contacts.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- User authentication with Firebase
+- Add, edit, and delete contacts
+- Search functionality for quick contact retrieval
+- Responsive design for mobile and desktop devices
+- Real-time updates with Firebase Firestore
+
+## Technologies Used
+
+- **Frontend**: React.js, React Router, CSS (or Tailwind CSS)
+- **Backend**: Firebase (Firestore, Authentication)
+- **Deployment**: Firebase Hosting
+
+## Installation
+
+To set up the project locally, follow these steps:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/shayanaarfeen/contact-app.git
